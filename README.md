@@ -1,4 +1,4 @@
-## Vendor Performance Data Analytics Project
+# Vendor Performance Data Analytics Project
 
 # Project Overview
 
