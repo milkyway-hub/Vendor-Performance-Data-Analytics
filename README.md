@@ -1,4 +1,10 @@
 # Vendor Performance Data Analytics Project
+## Dataset
+The dataset used in this project is large in size and is hosted on Google Drive.
+
+Dataset Link:
+https://drive.google.com/drive/folders/1w1X1J_yHyMLGfiQpKG3zpLHeVqN1LTDx?usp=sharing
+
 
 # Project Overview
 
